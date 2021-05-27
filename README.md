@@ -6,6 +6,15 @@ And hope I could have some scratch to review when working with opencv in the fut
 If anyone found this repo, hope it could help you too and forgive my shitty code.
 
 ## Structure 
-1. read.py
+### Basics
+1. read.py 
 2. rescale.py
 3. draw.py
+
+### Advanced
+
+
+### Faces
+
+
+### Capstone
