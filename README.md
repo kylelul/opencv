@@ -10,6 +10,8 @@ If anyone found this repo, hope it could help you too and forgive my shitty code
 1. read.py 
 2. rescale.py
 3. draw.py
+4. essentialFunction.py
+5. imageTransformation.py
 
 ### Advanced
 
